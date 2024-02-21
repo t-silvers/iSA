@@ -1,0 +1,10 @@
+dev
+results
+*.out
+*.err
+*.txt
+mxq.*
+*.tmp
+run_isa.sh
+seqdir
+scripts
